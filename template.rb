@@ -17,8 +17,8 @@ end
 
 class ClassName
 
-  def method(*arguments)
+  def method_name(*arguments)
     # do something interesting
-    return result
+    return "result"
   end
 end
