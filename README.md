@@ -8,26 +8,20 @@ A simple, one file, template to start Test Driven Development with the Minitest 
 
 Clone this git repository
 
-  	git clone git@github.com:rubysg/minitest_template.git
+  	git clone https://github.com/rubysg/minitest_template.git
 
 go into the new app directory
 
   	cd minitest_template
 
-###Installing Gems
-
-If your project requires any gems, add a Gemfile then run
-
-  	bundle install
-  	
 ###Writing Examples and Code
-  	
+
 Write your examples and code in the template.rb file
 
 ###Running Your Examples
 
   	ruby template.rb
-  	
+
 ## Contact
 
 Comments, patches, Git pull requests and bug reports are welcome.
