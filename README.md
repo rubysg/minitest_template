@@ -14,11 +14,11 @@ go into the new app directory
 
   	cd minitest_template
 
-###Writing Examples and Code
+### Writing Examples and Code
 
 Write your examples and code in the template.rb file
 
-###Running Your Examples
+### Running Your Examples
 
   	ruby template.rb
 
